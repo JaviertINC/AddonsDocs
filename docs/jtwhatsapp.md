@@ -11,6 +11,6 @@ Basado en mis modificaciones de Userscripts y en vista de que mis modificaciones
 
 ### Instalar
 
-De momento solo está disponible para Firefox
-Puedes instalarla desde la página oficial de Addons de Firefox [aquí](https://addons.mozilla.org/en-US/firefox/addon/jtwhatsapp/).
- O instalarla desde la página oficial de la extensión [aquí](https://javiertinc.cl/addon/jtwhatsapp).
+De momento solo está disponible para Firefox.
+- Puedes instalarla desde la página oficial de Addons de Firefox [aquí](https://addons.mozilla.org/en-US/firefox/addon/jtwhatsapp/).
+-  O instalarla desde la página oficial de la extensión [aquí](https://javiertinc.cl/addon/jtwhatsapp).
